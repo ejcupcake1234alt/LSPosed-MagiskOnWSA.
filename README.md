@@ -1,5 +1,5 @@
 # Magisk on WSA (with Google Apps)
-
+## THIS NO LONGER WORKS, PLEASE USE https://github.com/LSPosed/MagiskOnWSALocal INSTEAD.
 ## Features
 
 - Integrate Magisk and OpenGApps in a few clicks within minutes
